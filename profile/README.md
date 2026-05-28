@@ -1,5 +1,3 @@
 <p align="center"><a href="https://dragon-code.pro" target="_blank"><img src="https://raw.githubusercontent.com/TheDragonCode/art/main/svg/big.svg" width="640"></a></p>
 
 **The Dragon Skills** is a set of practical skills for solving everyday tasks and more.
-
-- [Dandy Code skill](https://github.com/TheDragonSkills/dandy-code)
